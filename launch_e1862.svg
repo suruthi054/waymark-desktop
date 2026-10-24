@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 80" width="380" height="80">
+  <defs>
+    <linearGradient id="btnBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dd3a0"/>
+      <stop offset="100%" stop-color="#e8b44a"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="80" rx="14" fill="#1a2e1a" stroke="url(#btnBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="376" height="76" rx="12" fill="#7dd3a0" fill-opacity="0.05"/>
+  <rect x="16" y="16" width="48" height="48" rx="12" fill="#7dd3a0"/>
+  <g transform="translate(-4, -4)"><path d="M 40 28 L 40 44 M 32 38 L 40 46 L 48 38 M 28 52 L 52 52" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/></g>
+  <text x="84" y="34" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1">WAYMARK DESKTOP</text>
+  <text x="84" y="58" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="900">Grab Latest</text>
+</svg>
